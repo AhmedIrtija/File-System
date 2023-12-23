@@ -29,7 +29,7 @@ A project written in C that utilizes the usage of virtual disk to create, write,
       ./fs_ref.x info disk.fs
       ```
 
-7. **Compatibility with "test_fs.c"**
+7. **Works the same with "test_fs.c"**
 
 8. **Run Individual Files**
    - Execute the following commands for each file:
